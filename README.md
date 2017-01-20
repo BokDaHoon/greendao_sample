@@ -1,0 +1,1 @@
+# greendao_sample
